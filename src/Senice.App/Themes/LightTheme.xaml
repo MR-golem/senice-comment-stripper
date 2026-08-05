@@ -1,0 +1,27 @@
+<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+
+    <SolidColorBrush x:Key="WindowBackground" Color="#FFF5F5F7" />
+    <SolidColorBrush x:Key="PanelBackground" Color="#FFFFFFFF" />
+    <SolidColorBrush x:Key="ControlBackground" Color="#FFFFFFFF" />
+    <SolidColorBrush x:Key="ControlBackgroundDisabled" Color="#FFF0F0F2" />
+    <SolidColorBrush x:Key="ControlHoverBackground" Color="#FFE9E9EE" />
+    <SolidColorBrush x:Key="ControlPressedBackground" Color="#FFDCDCE2" />
+    <SolidColorBrush x:Key="TextPrimary" Color="#FF1F1F24" />
+    <SolidColorBrush x:Key="TextSecondary" Color="#FF6E6E78" />
+    <SolidColorBrush x:Key="BorderBrush" Color="#FFD4D4DC" />
+    <SolidColorBrush x:Key="AccentBrush" Color="#FF2E6FB6" />
+    <SolidColorBrush x:Key="AccentHoverBrush" Color="#FF3A7FC9" />
+    <SolidColorBrush x:Key="AccentPressedBrush" Color="#FF255E9C" />
+    <SolidColorBrush x:Key="SelectionBackground" Color="#FFCFE2F5" />
+    <SolidColorBrush x:Key="RowHoverBackground" Color="#FFF0F0F5" />
+    <SolidColorBrush x:Key="DropOverlayBackground" Color="#E6F5F5F7" />
+    <SolidColorBrush x:Key="SuccessBrush" Color="#FF2E7D32" />
+    <SolidColorBrush x:Key="WarningBrush" Color="#FFB8860B" />
+    <SolidColorBrush x:Key="ErrorBrush" Color="#FFC62828" />
+    <SolidColorBrush x:Key="DiffAddedBrush" Color="#FFD6F0DD" />
+    <SolidColorBrush x:Key="DiffAddedTextBrush" Color="#FF1B5E20" />
+    <SolidColorBrush x:Key="DiffRemovedBrush" Color="#FFF6D8D8" />
+    <SolidColorBrush x:Key="DiffRemovedTextBrush" Color="#FF8A2A2A" />
+
+</ResourceDictionary>

@@ -1,0 +1,11 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Senice.App/Senice.App.csproj" />
+    <Project Path="src/Senice.Core/Senice.Core.csproj" />
+    <Project Path="src/Senice.Infrastructure/Senice.Infrastructure.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/Senice.Core.Tests/Senice.Core.Tests.csproj" />
+    <Project Path="tests/Senice.Infrastructure.Tests/Senice.Infrastructure.Tests.csproj" />
+  </Folder>
+</Solution>
