@@ -5,7 +5,7 @@ Senice is a desktop tool for Windows that strips comments and emoji from source 
 It uses [Tree-sitter](https://tree-sitter.github.io/) grammars to locate comments and strings precisely, with a safe lexical fallback for any language without a grammar. The result reads like hand-written, clean production code: comment bodies are removed while newlines, indentation, shebangs, BOM, and `\r\n`/`\n` endings are preserved.
 
 ![.NET](https://img.shields.io/badge/.NET-8.0-512BD4)
-![C#](https://img.shields.io/badge/C%23-12-239120)
+![C#](https://img.shields.io/badge/C%23-12-239120) 
 ![Platform](https://img.shields.io/badge/platform-Windows%20x64-0078D6)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
