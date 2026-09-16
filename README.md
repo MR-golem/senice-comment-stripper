@@ -105,3 +105,4 @@ tests/
 
 MIT
 AAAAAA
+A
