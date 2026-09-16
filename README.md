@@ -104,3 +104,4 @@ tests/
 ## License
 
 MIT
+A
